@@ -1,0 +1,5 @@
+Singleton
+
+es un patron de diseño que funciona para cunado tenemos un requerimineto
+el cual nos solicita que al instanciar una clase, todas las instancias de
+esta tengo los datos de la primera creada

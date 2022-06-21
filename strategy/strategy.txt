@@ -1,0 +1,6 @@
+Strategy
+
+es un patron de diseño que nos permite realizar el procesamiento de
+los valores de un contexto mediante diferentes estrategis sin la
+necesidad de modificar la clase principal, lo cual permite una escalabilidad
+mejor de umplementar
